@@ -6,12 +6,13 @@ This project is titled 'Write A Data Science Blog Post'.
 The Stack Overflow 2017 survey data was used here in order to get information on professional developers and what to focus on to have the best career.
 
 # Table of Contents
-Installation
-Project Motivation
-File Description
-Results
-Acknowledgements
-Installation
+Installation  
+Project Motivation  
+File Description  
+Results  
+Acknowledgements  
+
+#Installation  
 This project uses a Jupyter Notebook running Python 3 with the libraries numpy, pandas and matplotlib. These can be installed using pip but should be included in the Anaconda distribution of Python.
 
 # Project Motivation
