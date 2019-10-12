@@ -12,7 +12,7 @@ File Description
 Results  
 Acknowledgements  
 
-#Installation  
+# Installation  
 This project uses a Jupyter Notebook running Python 3 with the libraries numpy, pandas and matplotlib. These can be installed using pip but should be included in the Anaconda distribution of Python.
 
 # Project Motivation
