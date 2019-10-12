@@ -24,9 +24,10 @@ Project1.ipynb contains the Python code for this project. It assumes that the su
 # Results
 Throughout the notebook, I set out to answer three questions:
 
-What are the most common languages, technologies, methodologies and tools used by professionals
-What is the average salary for each programming language
-Which programming language has the highest job satisfaction
+1. What are the most common languages, technologies, methodologies and tools used by professionals
+2. What is the average salary for each programming language
+3. Which programming language has the highest job satisfaction
+
 We found out the following:
 
 JavaScript, C#, Java, SQL and Python are the most used languages by professional developers and therefore would be the most in demand and transferable skill between jobs. To support this, the most used frameworks are mostly JavaScript based. Agile is also the most popular methodology used by professional developers.
