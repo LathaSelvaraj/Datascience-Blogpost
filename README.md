@@ -28,10 +28,10 @@ Throughout the notebook, I set out to answer three questions:
 2. What is the average salary for each programming language
 3. Which programming language has the highest job satisfaction
 
-We found out the following:
+We found out the following answers to the questions above:
 
-JavaScript, C#, Java, SQL and Python are the most used languages by professional developers and therefore would be the most in demand and transferable skill between jobs. To support this, the most used frameworks are mostly JavaScript based. Agile is also the most popular methodology used by professional developers.
+The top 5 most commonly used languages are found to be Javascript, SQL, Java, C#, Python. To support this the most commonly used framework is also Java based skills. The most commonly used databases are SQL based and the most common methodology is Agile and Scrum.
 
-Languages that are known and used by less professionals warrant higher salaries.
+Its interesting to see that the most common languages that we found are of a lower salaries and the least popular languages have higher average salaries. This could be because if less resouces are available in the market for a langugae then the salary and demand will also be high
 
 Those who use less popular languages have higher job satisfaction but this may be a correlation between salary and job satisfaction.
